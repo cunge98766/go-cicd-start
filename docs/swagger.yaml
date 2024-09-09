@@ -1,0 +1,10 @@
+info:
+  contact: {}
+paths:
+  /json:
+    get:
+      description: 描述，我是干嘛的
+      responses: {}
+      tags:
+      - 测试用
+swagger: "2.0"
